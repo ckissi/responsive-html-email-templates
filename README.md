@@ -1,4 +1,4 @@
-## Free Responsive HTML Email Templates for Startups and SaaS
+# Free Responsive HTML Email Templates for Startups and SaaS
 Collection of Free Responsive HTML Templates for Startups and SaaS:
 
 - Welcome
