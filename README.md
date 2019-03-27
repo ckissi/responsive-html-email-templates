@@ -17,7 +17,7 @@ Active Trail, Amazon SES, Aweber, Benchmark Mail, Constant Contact, ContactMonke
 IContact, Intercom, MailChimp, MailGun, MailJet, MailPoet, MailerLite, PostMark, SendGrid, SendInBlue,
 SendWithUS, Sendy, Shopify, SparkPost, Wordpress 
 
-### What if head HTML attribute isn't supported.
+### What if head HTML attribute isn't supported?
 You can use our [CSS inliner](https://www.htmlemailtemplates.net/tools/css-innliner) tool.
 
 
