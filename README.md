@@ -1,3 +1,4 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WCZUGEB2PU38U)
 # Free Responsive HTML Email Templates for Startups and SaaS
 Collection of Free Responsive HTML Templates for Startups and SaaS:
 
