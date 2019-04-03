@@ -9,7 +9,7 @@ Collection of Free Responsive HTML Templates for Startups and SaaS:
 - Trial Expired
 - Email Confirmation
 
-<img src="https://user-images.githubusercontent.com/5107590/55074060-9319d580-508f-11e9-9dc0-ccbc18713a62.png" width="550px">
+<img src="https://user-images.githubusercontent.com/5107590/55488178-d647eb80-562f-11e9-9bda-500d6b88737b.png" width="550px">
 
 ## FAQ:
 ### Are these email HTML templates compatible with ESP (Email service provider) like MailChimp?
