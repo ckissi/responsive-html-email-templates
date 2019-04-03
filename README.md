@@ -26,4 +26,4 @@ You can use our [CSS inliner](https://www.htmlemailtemplates.net/tools/css-innli
 - [Startup Emails](https://www.htmlemailtemplates.net/startup-emails)
 - [SaaS Email Templates](https://www.htmlemailtemplates.net/saas-email-templates)
 ## Screenshots:
-[![html-emails](https://user-images.githubusercontent.com/5107590/55077298-ac268480-5097-11e9-93e1-0d4897162dff.png)](https://www.htmlemailtemplates.net)
+[![html-emails](https://user-images.githubusercontent.com/5107590/55488346-30e14780-5630-11e9-858e-3e4b3c4446a6.png)](https://www.htmlemailtemplates.net)
