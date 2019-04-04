@@ -19,7 +19,7 @@ IContact, Intercom, MailChimp, MailGun, MailJet, MailPoet, MailerLite, PostMark,
 SendWithUS, Sendy, Shopify, SparkPost, Wordpress 
 
 ### What if head HTML attribute isn't supported?
-You can use our [CSS inliner](https://www.htmlemailtemplates.net/tools/css-innliner) tool.
+You can use our [CSS inliner](https://www.htmlemailtemplates.net/free-stuff/css-innliner) tool.
 
 
 ## Additional HTML Email templates:
