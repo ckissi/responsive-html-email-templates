@@ -5,7 +5,7 @@ Collection of Free Responsive HTML Templates for Startups and SaaS:
 - Welcome
 - Forgot Password
 - Invoice
-- Cancelled Subscription
+- Canceled Subscription
 - Trial Expired
 - Email Confirmation
 
